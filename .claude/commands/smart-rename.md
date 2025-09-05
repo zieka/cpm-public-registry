@@ -1,6 +1,7 @@
 ---
 name: smart-rename
-description: Suggest better variable and function names based on usage context and conventions
+description: Suggest better names based on usage context
+args: optional
 ---
 
 # Smart Rename Command

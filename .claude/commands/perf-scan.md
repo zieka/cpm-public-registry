@@ -1,6 +1,7 @@
 ---
 name: perf-scan
-description: Identify performance bottlenecks and optimization opportunities in your code
+description: Find performance bottlenecks and optimizations
+args: optional
 ---
 
 # Performance Scan Command

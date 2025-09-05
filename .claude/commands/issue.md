@@ -1,4 +1,18 @@
-Please analyze and fix the GitHub issue: $ISSUE_NUMBER. 
+---
+name: issue
+description: Fix GitHub issue with tests and PR
+args: required
+---
+
+# Issue Command
+
+Analyze and fix a GitHub issue with automated workflow.
+
+## Arguments
+
+- `$1` or `$ISSUE_NUMBER`: GitHub issue number to fix
+
+## Workflow
 
 Follow these steps:
  - 1. Ensure that .worktrees/ is in the .gitignore file.  If not add it. 

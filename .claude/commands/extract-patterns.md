@@ -1,6 +1,7 @@
 ---
 name: extract-patterns
-description: Detect repeated code patterns and extract them into reusable functions/components
+description: Extract repeated code into reusable components
+args: optional
 ---
 
 # Extract Patterns Command
